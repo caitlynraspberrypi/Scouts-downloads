@@ -9,8 +9,8 @@
 
 <Style> <!--This next ‘Style’ section allows us to create custom icons for our placemark. We will simply link to the image we want to use. This image will need to be small enough for use as an icon. Some images will not work as icons, so make sure you test them out! -->
 <IconStyle>
-<Icon> <!-- In the href tag below, enter the URL of the image you want to use as your icon. If you create your own icons, you’ll need to store them online on your google drive or another cloud service. -->
-<href>https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png</href>
+<Icon> <!-- In the href tag below, enter the URL of the image you want to use as your icon. If you create your own icons, you’ll need to store them in an online service. -->
+<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
 </Icon>
 </IconStyle>
 </Style>
